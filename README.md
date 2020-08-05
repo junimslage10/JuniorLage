@@ -1,7 +1,7 @@
 <img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
 
 ## Olá pessoal 👋
-:computer:Sou apaixonado por resolver problemas utilizando a programação.
+Sou apaixonado por resolver problemas utilizando a programação.
 <br/>Sou um Front-end Developer.
 <br/>Atualmente formado pela Danki Code em Desenvolvedor Front-end.
 <br/>Cursando Javascript completo pela Hcode Treinamentos.
